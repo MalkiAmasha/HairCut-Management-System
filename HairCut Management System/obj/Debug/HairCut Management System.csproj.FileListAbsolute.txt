@@ -1,0 +1,51 @@
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.AssemblyReference.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.login.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Splash.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.GenerateResource.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Properties.Resources.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CoreCompileInputs.cache
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe.config
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.exe
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\HairCut Management System.pdb
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\bin\Debug\Guna.UI.dll
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Client.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CopyComplete
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.exe
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.pdb
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Appointment.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Services.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Product1.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Billing.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Employees.resources
+C:\Users\malki\Downloads\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Logout.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.AssemblyReference.cache
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.SuggestedBindingRedirects.cache
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Appointment.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Billing.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Client.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Employees.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.login.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Logout.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Services.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Splash.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Properties.Resources.resources
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.GenerateResource.cache
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CoreCompileInputs.cache
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.exe
+D:\@NSBM\@practicals\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.pdb
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.AssemblyReference.cache
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.SuggestedBindingRedirects.cache
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Appointment.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Billing.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Client.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Employees.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.login.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Logout.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Services.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Splash.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut_Management_System.Properties.Resources.resources
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.GenerateResource.cache
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.csproj.CoreCompileInputs.cache
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.exe
+D:\@NSBM\@practicals\1 st Year\C# practicals\HairCut Management System\HairCut Management System\obj\Debug\HairCut Management System.pdb
